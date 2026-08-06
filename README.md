@@ -57,7 +57,7 @@ Open To:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/harish-sonwale/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -66,7 +66,7 @@ Open To:
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://github.com/Harish2004-sonwale" />
 </a>
 
 </p>
