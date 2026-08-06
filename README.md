@@ -66,7 +66,7 @@ Open To:
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://github.com/Harish2004-sonwale" />
+<img src="https://github.com/Harish2004-sonwale"/>
 </a>
 
 </p>
