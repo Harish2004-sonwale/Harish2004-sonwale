@@ -1,45 +1,14 @@
+<!-- Hero Banner -->
 <p align="center">
 <img src="./hero.svg" alt="Harish Sonwale — Hero Banner" width="100%" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-```yaml
-Name: Harish Sonwale
-
-Education:
-  B.Tech Computer Science Engineering
-
-Location:
-  Pune, Maharashtra 🇮🇳
-
-Interested In:
-  - Cloud Computing
-  - Linux Administration
-  - DevOps
-  - Networking
-  - Artificial Intelligence
-
-Currently Working On:
-  FactoryAI
-  RAG Applications
-  Cloud Automation
-
-Learning:
-  Kubernetes
-  Terraform
-  CI/CD
-  Docker
-  AWS
-
-Open To:
-  Cloud Engineer
-  DevOps Engineer
-  Linux Administrator
-  Network Engineer
-```
+<!-- System Init Code Block -->
+<p align="center">
+<img src="./system_init.svg" alt="System Initialization" width="100%" />
+</p>
 
 ---
 
@@ -63,47 +32,23 @@ Open To:
 
 ---
 
-# 💻 Tech Stack
-
+<!-- Tech Arsenal -->
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,ubuntu,docker,git,github,aws,mysql,sqlite,vscode,postman,nginx" />
-
+<img src="./tech_arsenal.svg" alt="Tech Arsenal" width="100%" />
 </p>
 
 ---
 
-# ☁️ Cloud & DevOps
-
+<!-- Cloud Architecture -->
 <p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes,terraform,githubactions,prometheus,grafana" />
-
+<img src="./cloud_architecture.svg" alt="Cloud & Services Architecture" width="100%" />
 </p>
 
 ---
 
-# 🌐 Networking
-
+<!-- Education Timeline -->
 <p align="center">
-
-<img src="https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DHCP-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSH-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/tcpdump-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤖 AI Stack
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,openai,gemini,pytorch" />
-
+<img src="./education_timeline.svg" alt="Education Timeline" width="100%" />
 </p>
 
 ---
@@ -158,7 +103,10 @@ Open To:
 
 ---
 
-# 🎓 Certifications
+<!-- Certifications Header -->
+<p align="center">
+<img src="./cert_header.svg" alt="Certifications & Achievements" width="100%" />
+</p>
 
 🏅 Aviatrix Multi Cloud Certified Engineer
 
@@ -198,8 +146,7 @@ Open To:
 
 ---
 
+<!-- Footer -->
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
+<img src="./cyber_footer.svg" alt="Footer" width="100%" />
 </p>

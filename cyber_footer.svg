@@ -48,7 +48,7 @@
     <circle cx="15" cy="15" r="5" fill="#ef4444" />
     <circle cx="30" cy="15" r="5" fill="#f59e0b" />
     <circle cx="45" cy="15" r="5" fill="#22c55e" />
-    <text x="200" y="20" class="term-text" fill="#c9d1d9" text-anchor="middle" font-size="12">glacier-os-terminal ~ shubham</text>
+    <text x="200" y="20" class="term-text" fill="#c9d1d9" text-anchor="middle" font-size="12">glacier-os-terminal ~ harish</text>
     
     <!-- Typing Text -->
     <text x="20" y="55" class="term-text" fill="#38bdf8" opacity="0">

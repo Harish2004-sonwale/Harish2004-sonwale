@@ -67,17 +67,17 @@
   <g class="txt" transform="translate(30, 90)">
     
     <text y="0" class="comment fade-in line" style="--i:1">// ═════════════════════════════════════════════════════════════════════════════════════</text>
-    <text y="25" class="comment fade-in line" style="--i:2">// ██  system.boot() — Loading Shubham Gayke's Neural Interface                       ██</text>
+    <text y="25" class="comment fade-in line" style="--i:2">// ██  system.boot() — Loading Harish Sonwale's Neural Interface                       ██</text>
     <text y="50" class="comment fade-in line" style="--i:3">// ═════════════════════════════════════════════════════════════════════════════════════</text>
 
     <text y="100" class="fade-in line" style="--i:4"><tspan class="keyword">const</tspan> <tspan class="variable">DevOpsEngineer</tspan> <tspan class="bracket">=</tspan> <tspan class="bracket">{</tspan></text>
     
     <text y="125" class="fade-in line" style="--i:5">    <tspan class="key">identity</tspan><tspan class="bracket">:</tspan> <tspan class="bracket">{</tspan></text>
-    <text y="150" class="fade-in line" style="--i:6">        <tspan class="key">name</tspan><tspan class="bracket">:</tspan>     <tspan class="string">"Shubham Gayke"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="150" class="fade-in line" style="--i:6">        <tspan class="key">name</tspan><tspan class="bracket">:</tspan>     <tspan class="string">"Harish Sonwale"</tspan><tspan class="bracket">,</tspan></text>
     <text y="175" class="fade-in line" style="--i:7">        <tspan class="key">role</tspan><tspan class="bracket">:</tspan>     <tspan class="string">"DevOps Engineer | Cloud Architect | AI Automation Specialist"</tspan><tspan class="bracket">,</tspan></text>
     <text y="200" class="fade-in line" style="--i:8">        <tspan class="key">location</tspan><tspan class="bracket">:</tspan> <tspan class="string">"India 🇮🇳"</tspan><tspan class="bracket">,</tspan></text>
-    <text y="225" class="fade-in line" style="--i:9">        <tspan class="key">email</tspan><tspan class="bracket">:</tspan>    <tspan class="string">"shubhamgayke9860@gmail.com"</tspan><tspan class="bracket">,</tspan></text>
-    <text y="250" class="fade-in line" style="--i:10">        <tspan class="key">phone</tspan><tspan class="bracket">:</tspan>    <tspan class="string">"+91 9168469745"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="225" class="fade-in line" style="--i:9">        <tspan class="key">email</tspan><tspan class="bracket">:</tspan>    <tspan class="string">"harishsonwale4@gmail.com"</tspan><tspan class="bracket">,</tspan></text>
+    <text y="250" class="fade-in line" style="--i:10">        <tspan class="key">phone</tspan><tspan class="bracket">:</tspan>    <tspan class="string">"+91 9975996411"</tspan><tspan class="bracket">,</tspan></text>
     <text y="275" class="fade-in line" style="--i:11">    <tspan class="bracket">},</tspan></text>
 
     <text y="325" class="fade-in line" style="--i:12">    <tspan class="key">education</tspan><tspan class="bracket">:</tspan> <tspan class="bracket">{</tspan></text>
