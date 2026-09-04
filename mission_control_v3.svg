@@ -82,193 +82,164 @@
 <text x="60" y="70" class="mono" font-size="20" font-weight="bold" fill="#38bdf8" filter="url(#textGlow)">> VIEW PROJECT</text>
 
 
+<!-- ═══ PROJECT 1: MediGen AI ═══ -->
 <g transform="translate(60, 140)">
-  <rect width="1080" height="170" class="card-bg"/>
+  <rect width="1080" height="210" class="card-bg"/>
   
   <!-- Content -->
-  <text x="35" y="45" font-size="24">🚀</text>
-  <text x="75" y="42" class="title">Automated CI/CD Pipeline &amp; Multi-Cloud</text>
+  <text x="35" y="45" font-size="24">🧬</text>
+  <text x="75" y="42" class="title">MediGen AI</text>
   
-  <text x="75" y="75" class="desc">
-    <tspan x="75" dy="0">Designed and implemented a fully automated CI/CD pipeline using GitHub Actions,</tspan>\n    <tspan x="75" dy="25">Jenkins, and Docker to deploy microservices across AWS and Azure.</tspan>
+  <text x="75" y="70" class="desc">
+    <tspan x="75" dy="0">MediGen-AI is an enterprise-grade Clinical Decision Support System (CDSS) and</tspan>
+    <tspan x="75" dy="22">Electronic Health Record (EHR) platform engineered to modernize clinical workflows,</tspan>
+    <tspan x="75" dy="22">enforce bedside medication administration safety, support multi-modal diagnostic</tspan>
+    <tspan x="75" dy="22">imaging (DICOM PACS) and real-time ICU physiological waveform telemetry (12-Lead</tspan>
+    <tspan x="75" dy="22">ECG), and provide grounded, citation-backed clinical intelligence.</tspan>
   </text>
   
   <!-- Tags -->
-  <g transform="translate(75, 135)">
-
-
-    <rect x="0" y="-15" width="127" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="8" y="0" class="mono tag">[GitHub Actions]</text>
-
-
-    <rect x="142" y="-15" width="71" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="150" y="0" class="mono tag">[Jenkins]</text>
-
-
-    <rect x="228" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="236" y="0" class="mono tag">[Docker]</text>
-
-
-    <rect x="306" y="-15" width="39" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="314" y="0" class="mono tag">[AWS]</text>
-
-
-    <rect x="360" y="-15" width="55" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="368" y="0" class="mono tag">[Azure]</text>
-
-
-    <rect x="430" y="-15" width="47" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="438" y="0" class="mono tag">[Bash]</text>
-
-
-  </g>
-  
-  <!-- Buttons -->
-  <a href="https://github.com/shubham-gayke" target="_blank">
-    <g transform="translate(830, 30)">
-      <rect width="220" height="40" class="btn-bg"/>
-      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Github ↗</text>
-      <!-- Pulsing Glow -->
-      <rect width="220" height="40" rx="6" fill="none" stroke="#38bdf8" filter="url(#softGlow)">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </a>
-  
-  <a href="https://shubham-gayke.github.io/" target="_blank">
-    <g transform="translate(830, 85)">
-      <rect width="220" height="40" class="btn-bg-alt"/>
-      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Project Architecture ↗</text>
-      <!-- Pulsing Glow -->
-      <rect width="220" height="40" rx="6" fill="none" stroke="#c084fc" filter="url(#softGlow)">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </a>
-</g>
-
-
-<g transform="translate(60, 340)">
-  <rect width="1080" height="170" class="card-bg"/>
-  
-  <!-- Content -->
-  <text x="35" y="45" font-size="24">⚙️</text>
-  <text x="75" y="42" class="title">Infrastructure as Code Automation &amp; GitOps</text>
-  
-  <text x="75" y="75" class="desc">
-    <tspan x="75" dy="0">Built scalable cloud infrastructure using Terraform and Ansible. Implemented GitOps</tspan>\n    <tspan x="75" dy="25">workflow for Kubernetes deployments with automated rollbacks.</tspan>
-  </text>
-  
-  <!-- Tags -->
-  <g transform="translate(75, 135)">
-
-
-    <rect x="0" y="-15" width="87" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="8" y="0" class="mono tag">[Terraform]</text>
-
-
-    <rect x="102" y="-15" width="71" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="110" y="0" class="mono tag">[Ansible]</text>
-
-
-    <rect x="188" y="-15" width="95" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="196" y="0" class="mono tag">[Kubernetes]</text>
-
-
-    <rect x="298" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="306" y="0" class="mono tag">[GitOps]</text>
-
-
-    <rect x="376" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="384" y="0" class="mono tag">[Python]</text>
-
-
-  </g>
-  
-  <!-- Buttons -->
-  <a href="https://github.com/shubham-gayke" target="_blank">
-    <g transform="translate(830, 30)">
-      <rect width="220" height="40" class="btn-bg"/>
-      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Github ↗</text>
-      <!-- Pulsing Glow -->
-      <rect width="220" height="40" rx="6" fill="none" stroke="#38bdf8" filter="url(#softGlow)">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </a>
-  
-  <a href="https://shubham-gayke.github.io/" target="_blank">
-    <g transform="translate(830, 85)">
-      <rect width="220" height="40" class="btn-bg-alt"/>
-      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Project Architecture ↗</text>
-      <!-- Pulsing Glow -->
-      <rect width="220" height="40" rx="6" fill="none" stroke="#c084fc" filter="url(#softGlow)">
-        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-  </a>
-</g>
-
-
-<g transform="translate(60, 540)">
-  <rect width="1080" height="170" class="card-bg"/>
-  
-  <!-- Content -->
-  <text x="35" y="45" font-size="24">📊</text>
-  <text x="75" y="42" class="title">Kubernetes Cluster Monitoring &amp; Logging</text>
-  
-  <text x="75" y="75" class="desc">
-    <tspan x="75" dy="0">Deployed centralized monitoring and logging stack with Prometheus, Grafana, and ELK</tspan>\n    <tspan x="75" dy="25">stack. Custom alerts for resource utilization reducing system downtime.</tspan>
-  </text>
-  
-  <!-- Tags -->
-  <g transform="translate(75, 135)">
-
-
+  <g transform="translate(75, 178)">
     <rect x="0" y="-15" width="95" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="8" y="0" class="mono tag">[Prometheus]</text>
-
+    <text x="8" y="0" class="mono tag">[Python 3.11+]</text>
 
     <rect x="110" y="-15" width="71" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="118" y="0" class="mono tag">[Grafana]</text>
+    <text x="118" y="0" class="mono tag">[FastAPI]</text>
 
+    <rect x="196" y="-15" width="79" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="204" y="0" class="mono tag">[React 18]</text>
 
-    <rect x="196" y="-15" width="39" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="204" y="0" class="mono tag">[ELK]</text>
+    <rect x="290" y="-15" width="111" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="298" y="0" class="mono tag">[TypeScript 5]</text>
 
+    <rect x="416" y="-15" width="119" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="424" y="0" class="mono tag">[SQLAlchemy 2.0]</text>
 
-    <rect x="250" y="-15" width="95" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="258" y="0" class="mono tag">[Kubernetes]</text>
+    <rect x="550" y="-15" width="95" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="558" y="0" class="mono tag">[PostgreSQL]</text>
 
-
-    <rect x="360" y="-15" width="55" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="368" y="0" class="mono tag">[NGINX]</text>
-
-
-    <rect x="430" y="-15" width="47" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
-    <text x="438" y="0" class="mono tag">[RBAC]</text>
-
-
+    <rect x="660" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="668" y="0" class="mono tag">[Docker]</text>
   </g>
   
   <!-- Buttons -->
-  <a href="https://github.com/shubham-gayke" target="_blank">
+  <a href="https://github.com/Harish2004-sonwale/MediGen-AI.git" target="_blank">
     <g transform="translate(830, 30)">
       <rect width="220" height="40" class="btn-bg"/>
       <text x="110" y="25" class="mono btn-text" text-anchor="middle">Github ↗</text>
-      <!-- Pulsing Glow -->
       <rect width="220" height="40" rx="6" fill="none" stroke="#38bdf8" filter="url(#softGlow)">
         <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
       </rect>
     </g>
   </a>
-  
-  <a href="https://shubham-gayke.github.io/" target="_blank">
+  <a href="" target="_blank">
     <g transform="translate(830, 85)">
-      <rect width="220" height="40" class="btn-bg-alt"/>
-      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Project Architecture ↗</text>
-      <!-- Pulsing Glow -->
-      <rect width="220" height="40" rx="6" fill="none" stroke="#c084fc" filter="url(#softGlow)">
+      <rect width="220" height="40" rx="6" fill="rgba(34, 197, 94, 0.15)" stroke="#22c55e" stroke-width="1"/>
+      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Live ↗</text>
+      <rect width="220" height="40" rx="6" fill="none" stroke="#22c55e" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </a>
+</g>
+
+<!-- ═══ PROJECT 2: DevLens-AI ═══ -->
+<g transform="translate(60, 380)">
+  <rect width="1080" height="170" class="card-bg"/>
+  
+  <!-- Content -->
+  <text x="35" y="45" font-size="24">🔍</text>
+  <text x="75" y="42" class="title">DevLens-AI</text>
+  
+  <text x="75" y="70" class="desc">
+    <tspan x="75" dy="0">DevLens AI helps developers convert, debug, optimize, explain, analyze, and generate</tspan>
+    <tspan x="75" dy="22">tests for source code. The browser UI talks only to a FastAPI backend. The backend</tspan>
+    <tspan x="75" dy="22">is the only component that calls Google Gemini. The Gemini API key never leaves the server.</tspan>
+  </text>
+  
+  <!-- Tags -->
+  <g transform="translate(75, 140)">
+    <rect x="0" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="8" y="0" class="mono tag">[Python]</text>
+
+    <rect x="78" y="-15" width="71" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="86" y="0" class="mono tag">[FastAPI]</text>
+
+    <rect x="164" y="-15" width="95" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="172" y="0" class="mono tag">[JavaScript]</text>
+
+    <rect x="274" y="-15" width="39" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="282" y="0" class="mono tag">[CSS]</text>
+
+    <rect x="328" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="336" y="0" class="mono tag">[SQLite]</text>
+  </g>
+  
+  <!-- Buttons -->
+  <a href="https://github.com/Harish2004-sonwale/DevLens-AI.git" target="_blank">
+    <g transform="translate(830, 30)">
+      <rect width="220" height="40" class="btn-bg"/>
+      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Github ↗</text>
+      <rect width="220" height="40" rx="6" fill="none" stroke="#38bdf8" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </a>
+  <a href="https://devlens-ai-vg00.onrender.com" target="_blank">
+    <g transform="translate(830, 85)">
+      <rect width="220" height="40" rx="6" fill="rgba(34, 197, 94, 0.15)" stroke="#22c55e" stroke-width="1"/>
+      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Live ↗</text>
+      <rect width="220" height="40" rx="6" fill="none" stroke="#22c55e" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </a>
+</g>
+
+<!-- ═══ PROJECT 3: FactoryAI ═══ -->
+<g transform="translate(60, 580)">
+  <rect width="1080" height="170" class="card-bg"/>
+  
+  <!-- Content -->
+  <text x="35" y="45" font-size="24">🏭</text>
+  <text x="75" y="42" class="title">FactoryAI</text>
+  
+  <text x="75" y="70" class="desc">
+    <tspan x="75" dy="0">FactoryAI is an AI-powered platform designed for manufacturing teams to access</tspan>
+    <tspan x="75" dy="22">information, generate reports, analyze data, and communicate effectively — all in</tspan>
+    <tspan x="75" dy="22">one secure workspace with Chatbot, Excel Analyzer, and UiPath automation.</tspan>
+  </text>
+  
+  <!-- Tags -->
+  <g transform="translate(75, 140)">
+    <rect x="0" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="8" y="0" class="mono tag">[Python]</text>
+
+    <rect x="78" y="-15" width="55" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="86" y="0" class="mono tag">[Flask]</text>
+
+    <rect x="148" y="-15" width="119" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="156" y="0" class="mono tag">[Google Gemini]</text>
+
+    <rect x="282" y="-15" width="63" height="22" rx="4" fill="#5eead4" fill-opacity="0.1"/>
+    <text x="290" y="0" class="mono tag">[UiPath]</text>
+  </g>
+  
+  <!-- Buttons -->
+  <a href="https://github.com/Harish2004-sonwale/FactoryAI.git" target="_blank">
+    <g transform="translate(830, 30)">
+      <rect width="220" height="40" class="btn-bg"/>
+      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Github ↗</text>
+      <rect width="220" height="40" rx="6" fill="none" stroke="#38bdf8" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </a>
+  <a href="https://factoryai-qb0w.onrender.com/" target="_blank">
+    <g transform="translate(830, 85)">
+      <rect width="220" height="40" rx="6" fill="rgba(34, 197, 94, 0.15)" stroke="#22c55e" stroke-width="1"/>
+      <text x="110" y="25" class="mono btn-text" text-anchor="middle">Live ↗</text>
+      <rect width="220" height="40" rx="6" fill="none" stroke="#22c55e" filter="url(#softGlow)">
         <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
       </rect>
     </g>
