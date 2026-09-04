@@ -108,7 +108,7 @@
     <!-- name -->
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0; 0 -3; 0 0" dur="6s" repeatCount="indefinite"/>
-      <text x="38" y="110" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="0.5" fill="url(#ggh-nameGrad)" filter="url(#ggh-glow)">SHUBHAM GAYKE</text>
+      <text x="38" y="110" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="0.5" fill="url(#ggh-nameGrad)" filter="url(#ggh-glow)">Harish Sonwale</text>
     </g>
 
     <!-- typed role cycle -->
@@ -152,12 +152,12 @@
     <!-- Contact Info (Glowing & Bold) -->
     <g font-family="'JetBrains Mono',Consolas,monospace" font-size="16" font-weight="bold">
       <text x="40" y="270" fill="#38BDF8" filter="url(#ggh-glow-strong)">
-        📞 +91 9168469745
+        📞 +91 9975996411
         <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
       </text>
       
       <text x="40" y="305" fill="#5EEAD4" filter="url(#ggh-glow-strong)">
-        ✉ shubhamgayke9860@gmail.com
+        ✉ harishsonwale4@gmail.com
         <animate attributeName="opacity" values="0.8;1;0.8" dur="3.5s" repeatCount="indefinite"/>
       </text>
 
