@@ -1,15 +1,5 @@
-<h1 align="center">
-Hi 👋, I'm Harish Sonwale
-</h1>
-
-<h3 align="center">
-Cloud • Linux • DevOps • Networking • AI Engineer
-</h3>
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Linux+Administrator;DevOps+Enthusiast;Networking+Engineer;Python+Developer;AI+%7C+RAG+Developer;Always+Learning+New+Technologies" />
-
+<img src="./hero.svg" alt="Harish Sonwale — Hero Banner" width="100%" />
 </p>
 
 ---
@@ -65,8 +55,8 @@ Open To:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github.com/Harish2004-sonwale"/>
+<a href="https://github.com/Harish2004-sonwale">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -122,9 +112,9 @@ Open To:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harish2004-sonwale&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish2004-sonwale&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -134,7 +124,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Harish2004-sonwale&theme=tokyonight"/>
 
 </p>
 
@@ -144,7 +134,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish2004-sonwale&theme=tokyo-night"/>
 
 </p>
 
@@ -154,7 +144,7 @@ Open To:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Harish2004-sonwale&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -162,59 +152,9 @@ Open To:
 
 # 🚀 Featured Projects
 
-## 🏭 FactoryAI
-
-AI-powered Knowledge Management & Automation Platform
-
-✅ LangChain
-
-✅ ChromaDB
-
-✅ Google Gemini
-
-✅ Streamlit
-
-✅ SQLite
-
-✅ RBAC
-
-✅ UiPath Integration
-
----
-
-## 🌐 Deep Packet Inspection
-
-Python
-
-Flask
-
-Scapy
-
-Wireshark
-
-Docker
-
-Linux
-
-Protocol Analysis
-
----
-
-## ☁️ AWS Cloud Labs
-
-EC2
-
-IAM
-
-VPC
-
-S3
-
-CloudWatch
-
-Route53
-
-Linux Automation
+<p align="center">
+<img src="./mission_control_v3.svg" alt="Featured Projects" width="100%" />
+</p>
 
 ---
 
@@ -232,7 +172,7 @@ Linux Automation
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Harish2004-sonwale&style=for-the-badge"/>
 
 </p>
 
@@ -252,7 +192,7 @@ Linux Automation
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Harish2004-sonwale/Harish2004-sonwale/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
