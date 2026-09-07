@@ -195,16 +195,17 @@
     <rect x="470" y="192" width="860" height="193" rx="14" fill="#081120" fill-opacity="0.92" stroke="#2ea8ff" stroke-width="1.6" filter="url(#glow)"/>
     <path d="M1290 202 L1310 202 M1300 202 L1320 222" stroke="#6fd7ff" stroke-width="2" opacity="0.8"/>
 
-    <text x="500" y="238" font-size="25" font-weight="700" fill="#f2f8ff">B-TECH IN COMPUTER SCIENCE ENGINEERING</text>
+    <text x="500" y="230" font-size="22" font-weight="700" fill="#f2f8ff">B-TECH IN COMPUTER SCIENCE &amp; ENGINEERING</text>
+    <text x="500" y="253" font-size="13.5" font-weight="600" fill="#6fd7ff" letter-spacing="0.3">(IoT, Cyber Security &amp; Blockchain Technology)</text>
 
-    <g transform="translate(502,258)">
+    <g transform="translate(502,275)">
       <path d="M-9 6 L0 -2 L9 6 M-6 6 V-1 H6 V6" fill="none" stroke="#6fd7ff" stroke-width="1.6"/>
     </g>
-    <text x="522" y="263" font-size="17" fill="#b9d9ff">MGM University</text>
+    <text x="522" y="280" font-size="16" fill="#b9d9ff">MGM University</text>
 
-    <rect x="500" y="298" width="180" height="42" rx="7" fill="#08192f" stroke="#2ea8ff" stroke-width="1.4"/>
-    <text x="516" y="325" font-size="16" font-weight="700" fill="#9fd3ff">CGPA:</text>
-    <text x="590" y="326" font-size="19" font-weight="800" fill="#ffffff">7.5/10</text>
+    <rect x="500" y="306" width="180" height="42" rx="7" fill="#08192f" stroke="#2ea8ff" stroke-width="1.4"/>
+    <text x="516" y="333" font-size="16" font-weight="700" fill="#9fd3ff">CGPA:</text>
+    <text x="590" y="334" font-size="19" font-weight="800" fill="#ffffff">7.45/10</text>
 
     <use href="#icon-building" x="1080" y="192" width="240" height="193" style="color:#3fa8ff" opacity="0.85"/>
   </g>
@@ -238,11 +239,6 @@
     <rect x="500" y="521" width="180" height="42" rx="7" fill="#190f2c" stroke="#b15bff" stroke-width="1.4"/>
     <text x="516" y="548" font-size="16" font-weight="700" fill="#d3a8ff">Score:</text>
     <text x="590" y="549" font-size="19" font-weight="800" fill="#ffffff">76.67%</text>
-
-
-
-
-
     <use href="#icon-trophy" x="1085" y="425" width="220" height="200" style="color:#c56bff" opacity="0.9"/>
   </g>
 
